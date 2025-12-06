@@ -1,9 +1,11 @@
 Hey,I am not ingesting the data in this file (bug is fixed).
 
-<<<<<<< HEAD
+
 Master here baby. Let me also contribute to the project
-=======
+
 Master here. Let me also like to the project.
 
->>>>>>> bugfix_1
+iam adding new thing
+
+
 
